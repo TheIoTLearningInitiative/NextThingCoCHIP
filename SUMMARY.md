@@ -5,7 +5,7 @@
 * [Hardware](documentation/Hardware.md)
 * Getting Started
    * [OS Flash](documentation/OsFlash.md)
-       * Compilation
+       * [Compilation](documentation/OsCompilation.md)
    * [SDK](documentation/Sdk.md)
        * [Flash](documentation/SdkFlash.md)
 
