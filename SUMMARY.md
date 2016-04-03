@@ -11,5 +11,5 @@
 * [Boot Up](documentation/BootUp.md)
    * [Kernel](documentation/BootUpKernel.md)
 * [Buildroot](documentation/Buildroot.md)
-* Debian
+* [Debian](documentation/Debian.md)
 
