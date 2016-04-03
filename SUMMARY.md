@@ -13,5 +13,5 @@
 * [Buildroot](documentation/Buildroot.md)
 * [Debian](documentation/Debian.md)
 * [Sandbox](documentation/Sandbox.md)
-* Yocto
+* [Yocto](documentation/Yocto.md)
 
