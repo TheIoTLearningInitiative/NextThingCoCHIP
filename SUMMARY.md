@@ -4,5 +4,5 @@
 * [Introduction](documentation/Introduction.md)
 * [Hardware](documentation/Hardware.md)
 * Getting Started
-   * OS Flash
+   * [OS Flash](documentation/OsFlash.md)
 
