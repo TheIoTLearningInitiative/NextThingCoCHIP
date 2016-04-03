@@ -6,4 +6,5 @@
 * Getting Started
    * [OS Flash](documentation/OsFlash.md)
    * [SDK](documentation/Sdk.md)
+       * Flash
 
