@@ -9,5 +9,5 @@
    * [SDK](documentation/Sdk.md)
        * [Flash](documentation/SdkFlash.md)
 * [Boot Up](BootUp.md)
-   * Kernel
+   * [Kernel](documentation/BootUpKernel.md)
 
