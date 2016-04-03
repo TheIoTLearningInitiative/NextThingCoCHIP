@@ -8,5 +8,5 @@
        * [Compilation](documentation/OsCompilation.md)
    * [SDK](documentation/Sdk.md)
        * [Flash](documentation/SdkFlash.md)
-* Boot Up
+* [Boot Up](BootUp.md)
 
