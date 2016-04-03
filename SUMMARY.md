@@ -8,6 +8,6 @@
        * [Compilation](documentation/OsCompilation.md)
    * [SDK](documentation/Sdk.md)
        * [Flash](documentation/SdkFlash.md)
-* [Boot Up](BootUp.md)
+* [Boot Up](documentation/BootUp.md)
    * [Kernel](documentation/BootUpKernel.md)
 
