@@ -4,6 +4,6 @@
 * [Introduction](documentation/Introduction.md)
 * [Hardware](documentation/Hardware.md)
 * Getting Started
-   * SDK
    * [OS Flash](documentation/OsFlash.md)
+   * SDK
 
