@@ -186,6 +186,7 @@ sunxi-codec as hardware
 
 ### VNC Server @ CHIP X Desktop
 
+```sh
     root@chip:~# apt-get install xfce4
     root@chip:~# apt-get install vnc4server
     chip@chip:~$ vnc4passwd 
@@ -200,9 +201,11 @@ sunxi-codec as hardware
     Creating default startup script /home/chip/.vnc/xstartup
     Starting applications specified in /home/chip/.vnc/xstartup
     Log file is /home/chip/.vnc/chip:1.log
+```
 
 ### VNC Server @ CHIP Default Desktop
 
+```sh
     chip@chip:~$ vnc4server -kill :1
     Killing Xvnc4 process ID 18807
     chip@chip:~$ nano ~/.vnc/xstartup                         
@@ -218,9 +221,11 @@ sunxi-codec as hardware
     
     Starting applications specified in /home/chip/.vnc/xstartup
     Log file is /home/chip/.vnc/chip:1.log
+```
 
 ### VNC Viewer @ Host
-    
+
+```sh
     root@jessie:/home/xe1gyq# apt-get install xvnc4viewer
     Reading package lists... Done
     Building dependency tree       
@@ -230,6 +235,7 @@ sunxi-codec as hardware
     root@jessie:/home/xe1gyq# exit
     exit
     xe1gyq@jessie:~$ xvnc4viewer 192.168.1.77:1
+```
 
 ## My Stuff
 
