@@ -12,7 +12,7 @@
    * [Kernel](documentation/BootUpKernel.md)
 * [Buildroot](documentation/Buildroot.md)
 * [Debian](documentation/Debian.md)
-* PocketCHIP
+* [PocketCHIP](documentation/PocketChip.md)
 * [Sandbox](documentation/Sandbox.md)
 * [Yocto](documentation/Yocto.md)
 
