@@ -91,3 +91,10 @@ chip@chip:~$ gnome-screenshot --display=:0
 (gnome-screenshot:19483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
 chip@chip:~$ 
 ```
+
+# Gaming Doom
+
+```sh
+chip@chip:~$ sudo apt-get install prboom
+chip@chip:~$ sudo apt-get install doom-wad-shareware
+```
