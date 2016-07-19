@@ -1,5 +1,4 @@
-Debian
-==
+# Debian
 
 ## First Steps
 
