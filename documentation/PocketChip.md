@@ -1,6 +1,6 @@
 # PocketCHIP
 
-- [](http://www.chip-community.org/index.php/Troubleshooting)
+- [Troubleshooting](http://www.chip-community.org/index.php/Troubleshooting)
 - [Emulators](https://bbs.nextthing.co/t/emulators-on-pocketchip-my-tests/5687)
 
 ```sh
