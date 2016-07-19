@@ -64,3 +64,16 @@ Administrator. It usually boils down to these three things:
 
 [sudo] password for chip: 
 ```
+
+## Screenshot
+
+```sh
+chip@chip:~$ sudo apt-get install gnome-screenshot             
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following NEW packages will be installed:
+  gnome-screenshot
+...
+
+```
