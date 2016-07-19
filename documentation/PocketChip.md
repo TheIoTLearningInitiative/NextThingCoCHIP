@@ -22,3 +22,7 @@ chip@chip:~$ uname -a
 Linux chip 4.3.0-ntc #1 SMP Wed May 11 21:57:30 UTC 2016 armv7l GNU/Linux
 chip@chip:~$ 
 ```
+
+```sh
+chip@chip:~$ DISPLAY=:0.0 xinput_calibrator
+```
