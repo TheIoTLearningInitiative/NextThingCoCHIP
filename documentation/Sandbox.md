@@ -1,6 +1,7 @@
 # SandBox
 
 npm install cylon cylon-chip cylon-gpio cylon-i2c
+https://github.com/sandeepmistry/node-chip-io
 http://www.instructables.com/id/Turn-your-Raspberry-Pi-into-a-Portable-Bluetooth-A/
 https://wiki.archlinux.org/index.php/Bluetooth#Configuration_via_the_CLI
 
