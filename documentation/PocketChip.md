@@ -24,5 +24,5 @@ chip@chip:~$
 ```
 
 ```sh
-chip@chip:~$ DISPLAY=:0.0 xinput_calibrator
+chip@chip:~$ DISPLAY=:0.0 application
 ```
