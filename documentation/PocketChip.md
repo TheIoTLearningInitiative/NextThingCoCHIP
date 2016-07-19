@@ -7,6 +7,8 @@
 chip@chip:~$ sudo apt-get install openssh-server
 ```
 
+# Connecting Through SSH
+
 ```sh
 xe1gyq@jessie:~$ ssh chip@192.168.1.68
 chip@192.168.1.68's password: 
