@@ -80,5 +80,14 @@ chip@chip:~$
 ```
 
 ```sh
+chip@chip:~$ gnome-screenshot --display=:0
 
+(gnome-screenshot:19483): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(gnome-screenshot:19483): GLib-GIO-CRITICAL **: g_dbus_connection_call_sync_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+** Message: Unable to use GNOME Shell's builtin screenshot interface, resorting to fallback X11.
+
+(gnome-screenshot:19483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+chip@chip:~$ 
 ```
