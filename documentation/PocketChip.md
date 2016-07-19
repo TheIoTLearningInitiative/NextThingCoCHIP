@@ -3,6 +3,7 @@
 - [Information Resources](https://bbs.nextthing.co/t/information-resources/3382)
 - [Troubleshooting](http://www.chip-community.org/index.php/Troubleshooting)
 - [Emulators](https://bbs.nextthing.co/t/emulators-on-pocketchip-my-tests/5687)
+- [](https://www.hackster.io/glowascii/c-h-i-p-projects-to-start-with-7a8485?ref=part&ref_id=16248&offset=7)
 
 ```sh
 chip@chip:~$ sudo apt-get install openssh-server
