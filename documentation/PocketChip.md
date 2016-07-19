@@ -4,4 +4,4 @@
 
 ```sh
 chip@chip:~$ sudo apt-get install openssh-server
-```sh
+```
