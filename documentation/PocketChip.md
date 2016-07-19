@@ -75,5 +75,6 @@ Reading state information... Done
 The following NEW packages will be installed:
   gnome-screenshot
 ...
-
+Setting up gnome-screenshot (3.14.0-1) ...
+chip@chip:~$ 
 ```
