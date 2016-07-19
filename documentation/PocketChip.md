@@ -26,3 +26,23 @@ chip@chip:~$
 ```sh
 chip@chip:~$ DISPLAY=:0.0 application
 ```
+
+# Touchscreen Calibration
+
+```sh
+chip@chip:~$ DISPLAY=:0.0 xinput_calibrator
+Calibrating EVDEV driver for "1c25000.rtp" id=6
+	current calibration values (from XInput): min_x=3965, max_x=112 and min_y=3776, max_y=227
+
+Doing dynamic recalibration:
+	Setting calibration data: 3992, 182, 3694, 276
+	--> Making the calibration permanent <--
+  copy the snippet below into '/etc/X11/xorg.conf.d/99-calibration.conf' (/usr/share/X11/xorg.conf.d/ in some distro's)
+Section "InputClass"
+	Identifier	"calibration"
+	MatchProduct	"1c25000.rtp"
+	Option	"Calibration"	"3992 182 3694 276"
+	Option	"SwapAxes"	"0"
+EndSection
+chip@chip:~$ 
+```
