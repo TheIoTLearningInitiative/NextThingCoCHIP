@@ -11,7 +11,7 @@ Next Thing Co CHIP
 - [CHIP computer: speed of USB, WiFi, current consumption and pictures from thermal image](http://time4ee.com/articles.php?article_id=27])
 - [CHIP computer: flashing OS, python, LED and blinking of LED after boot](http://time4ee.com/articles.php?article_id=28)
 - [Flashing new FW](http://docs.getchip.com/chip.html#flash-chip-with-an-os)
-- [](flash.getchip.com)
+- [Flash Get Chip](flash.getchip.com)
 
 # Swift
 
