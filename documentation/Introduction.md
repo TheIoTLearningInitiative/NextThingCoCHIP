@@ -6,7 +6,7 @@ Next Thing Co CHIP
 - [Next Thing Co Documentation](http://docs.getchip.com/#introduction)
 
 
-- [http://time4ee.com/articles.php?article_id=25](CHIP computer: first sight and comparison with Raspberry Pi Zero - pizero)
+- [CHIP computer: first sight and comparison with Raspberry Pi Zero - pizero](http://time4ee.com/articles.php?article_id=25)
 - [http://time4ee.com/articles.php?article_id=26](CHIP computer: connection to WiFi, SSH, UART)
 - [http://time4ee.com/articles.php?article_id=27](CHIP computer: speed of USB, WiFi, current consumption and pictures from thermal image)
 CHIP computer: flashing OS, python, LED and blinking of LED after boot
