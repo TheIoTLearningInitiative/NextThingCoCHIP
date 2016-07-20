@@ -7,7 +7,7 @@ Next Thing Co CHIP
 
 
 CHIP computer: first sight and comparison with Raspberry Pi Zero - pizero
-CHIP computer: connection to WiFi, SSH, UART
+- [http://time4ee.com/articles.php?article_id=26](CHIP computer: connection to WiFi, SSH, UART)
 - [http://time4ee.com/articles.php?article_id=27](CHIP computer: speed of USB, WiFi, current consumption and pictures from thermal image)
 CHIP computer: flashing OS, python, LED and blinking of LED after boot
 Flashing new FW:
