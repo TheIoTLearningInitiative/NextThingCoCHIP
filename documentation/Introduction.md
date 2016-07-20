@@ -10,9 +10,7 @@ Next Thing Co CHIP
 - [CHIP computer: connection to WiFi, SSH, UART](http://time4ee.com/articles.php?article_id=26)
 - [CHIP computer: speed of USB, WiFi, current consumption and pictures from thermal image](http://time4ee.com/articles.php?article_id=27])
 - [CHIP computer: flashing OS, python, LED and blinking of LED after boot](http://time4ee.com/articles.php?article_id=28)
-CHIP computer: flashing OS, python, LED and blinking of LED after boot
-Flashing new FW:
-What we need - http://docs.getchip.com/chip.html#flash-chip-with-an-os
+- [Flashing new FW](http://docs.getchip.com/chip.html#flash-chip-with-an-os)
 Go to flash.getchip.com website
 
 # Swift
