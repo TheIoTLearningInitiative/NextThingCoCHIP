@@ -14,5 +14,6 @@
 * [Debian](documentation/Debian.md)
 * [PocketCHIP](documentation/PocketChip.md)
 * [Sandbox](documentation/Sandbox.md)
+  * [More](documentation/More.md)
 * [Yocto](documentation/Yocto.md)
 
